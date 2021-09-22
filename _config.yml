@@ -19,13 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sitio web creado como ejemplo de esqueleto para
   crear un sitio web con Jekyll
 baseurl: "/plantilla-jekyll" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
-url: "https://DPO-DAWN.github.io" # the base hostname & protocol for your site
-=======
 url: "http://DPO-DAWN.github.io" # the base hostname & protocol for your site
->>>>>>> d18c38e3917819b7d8ee759ef26c7ca14f0f1bf6
 
 # Build settings
 markdown: kramdown
-
-theme: jekyll-theme-cayman
